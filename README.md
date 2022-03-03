@@ -20,33 +20,23 @@
 <a href="https://www.linkedin.com/in/bekzod-qurbonov-2b0a31211" target="blank"><img align="middle" src="https://user-images.githubusercontent.com/56734609/132330172-e4bb01cc-dbac-457b-9378-193e00142f13.png" alt="bekzod" height="40" width="40" /></a></p>
 <div>
   <div><h3 align="center">My Projects</h3></div>
-  <div style="display:'flex',justify-content:'space-between'">
+  <div style="display:'flex';justify-content:'space-between' ">
     <div class='card' style="width:'50%',min-height:'300px'">
       <div class="card-body">
        <div class="card-img" 
-            style="width:'100%',height:'100%',object-fit:'cover'">
+            style="width:'100%'; height:'100%'; object-fit:'cover'">
             <img src="https://miro.medium.com/max/1400/0*eoqVzyWgYRxXEgiZ.jpeg" 
               alt="tv show"/>
        </div>
       </div>
-      <a href="https://mytvshowlist.netlify.app/" style="color:'white' font-weight:'bold'">TV Show</a>
+      <a href="https://mytvshowlist.netlify.app/"  style="cursor:pointer"><span style="color: green"> Tw Show</span></a>
     </div>
     <div class='card' style="width:'50%',min-height:'300px'">
       <div class="card-body">
        <div class="card-img" style="width:'100%',height:'100%',object-fit:'cover'"><img src="https://miro.medium.com/max/1400/0*eoqVzyWgYRxXEgiZ.jpeg" alt="tv show"          /></div>
       </div>
-      <a href="https://mytvshowlist.netlify.app/"  color:'white' font-weight:'bold'>TV Show</a>
+      <a href="https://mytvshowlist.netlify.app/" ><span style="color: white">Tw Show</span></a>
     </div>
   </div>
 </div>
 
-### Table of Contents
-| No. | Questions |
-| --- | --------- |
-|   | **Core React** |
-|1  | [What is React?](#what-is-react) |
-|2  | [What are the major features of React?](#what-are-the-major-features-of-react) |
-|3  | [What is JSX?](#what-is-jsx) |
-|4  | [What is the difference between Element and Component?](#what-is-the-difference-between-element-and-component) |
-|5  | [How to create components in React?](#how-to-create-components-in-react) |
-|6  | [When to use a Class Component over a Function Component?](#when-to-use-a-class-component-over-a-function-component) |
