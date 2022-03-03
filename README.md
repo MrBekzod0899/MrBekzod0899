@@ -24,8 +24,8 @@
     <div class='card' style="width:'50%',min-height:'300px'">
       <div class="card-body">
        <div class="card-img" 
-            style="width:'100%'; height:'100%'; object-fit:'cover'">
-            <img src="https://miro.medium.com/max/1400/0*eoqVzyWgYRxXEgiZ.jpeg" 
+            style="width:'100%'; height:'100%';">
+            <img  src="https://miro.medium.com/max/1400/0*eoqVzyWgYRxXEgiZ.jpeg" 
               alt="tv show"/>
        </div>
       </div>
@@ -33,7 +33,7 @@
     </div>
     <div class='card' style="width:'50%',min-height:'300px'">
       <div class="card-body">
-       <div class="card-img" style="width:'100%',height:'100%',object-fit:'cover'"><img src="https://miro.medium.com/max/1400/0*eoqVzyWgYRxXEgiZ.jpeg" alt="tv show"          /></div>
+       <div class="card-img" style="width:'100%',height:'100%'"><img src="https://miro.medium.com/max/1400/0*eoqVzyWgYRxXEgiZ.jpeg" alt="tv show"          /></div>
       </div>
       <a href="https://mytvshowlist.netlify.app/" ><span style="color: white">Tw Show</span></a>
     </div>
